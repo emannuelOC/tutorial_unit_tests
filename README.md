@@ -1,1 +1,1 @@
-Starter project para o post sobre Unit Tests no [equinociOS](equinocios.com) 🤓
+Starter project para o post sobre Unit Tests no [equinociOS](http://equinocios.com) 🤓
